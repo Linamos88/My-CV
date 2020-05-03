@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(203, 218, 223);
+}
+
+h1 {
+  color: rgb(5, 64, 66);
+  font-size: 60px;
+  font-style: Arial sans-serif;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-size: 30px;
+  margin-top: 0em;
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-style: italic sans-serif;
+  font-size: 30px;
+  margin: 15px;
+  padding: 15px;
+}
+
+p {
+  color: black;
+  font-size: 18px;
+  font-style: oblique;
+  margin: 10px;
+  padding: 10px;
+}
+a {
+  color: black;
+  font-size: 20px;
+}
+.message {
+  border: 1px color black solid;
+  font-size: 30px;
+  background-color: cadetblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  opacity: 0.9px;
+  box-shadow: 3px 3px 7pc black;
+  text-align: center;
+  font-style: oblique;
+}
+.message:hover {
+  border: 10px solid black;
+}
+.url {
+  border: 20px solid color black;
+  font-size: 30px;
+  background-color: cadetblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  opacity: 0.9px;
+  box-shadow: 3px 3px 7pc black;
+  text-align: center;
+  font-style: oblique;
+  font-weight: 500px;
+}
